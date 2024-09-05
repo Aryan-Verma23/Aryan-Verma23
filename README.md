@@ -1,5 +1,5 @@
 Hello, I'm Aryan! 👋
-I'm a passionate and enthusiastic learner, diving deep into the realms of Java and the MERN stack. Currently, I'm on an exciting journey to master these technologies and apply them to build robust, scalable applications.
+I'm a passionate and enthusiastic learner, diving deep into the realms of Java,The MERN stack,C/C++ and their Frameworks. Currently, I'm on an exciting journey to master these technologies and apply them to build robust, scalable applications.
 
 -> My Interests
 

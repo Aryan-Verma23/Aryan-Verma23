@@ -1,10 +1,10 @@
 Hello, I'm Aryan! 👋
-I'm a passionate and enthusiastic learner, diving deep into the realms of Java,The MERN stack,C/C++ and their Frameworks. Currently, I'm on an exciting journey to master these technologies and apply them to build robust, scalable applications.
+I'm a passionate and enthusiastic learner, diving deep into the realms of Java,TSpringBoot,C/C++ and their Frameworks. Currently, I'm on an exciting journey to master these technologies and apply them to build robust, scalable applications.
 
 -> My Interests
 
  Java: Crafting efficient and reliable backend solutions.
- MERN Stack: Creating dynamic and responsive web applications.
+ SpringBoot: Crafting a backend for web-app
 
 -> Why I Code
 
@@ -13,12 +13,12 @@ I'm a passionate and enthusiastic learner, diving deep into the realms of Java,T
 ->What I’m Learning
 
  Java: Enhancing my understanding of object-oriented programming and improving my backend development skills And my problem solving skills on which i am very focused upon.
- MERN Stack: Developing full-stack applications with MongoDB, Express.js, React, and Node.js.
+
 
 ->What I'm planning to learn in next four years
 
-Currently as the topic suggests and can deduce i am about to purse my course which certainly will be b.tech,In those four years I'll be mastering my skills and learning new frameworks for exposure in my career fields to get more options to pursue during my professional
-life ,I'll be learning MERN Stack and implementing it to my new projects of which i already hae ideas,because i am a man with long term vision then I'll be learnign and start digging for cloud services or 
+In next four years I'll be mastering my skills and learning new frameworks for exposure in my career fields to get more options to pursue during my professional
+life ,I'll be learning SpringBOOT,AWS and implementing it to my new projects of which i already have ideas,because i am a man with long term vision then I'll be learning and start digging for cloud services or 
 Flutter because they help in developing android applications.
 
 ->Let's Connect!
